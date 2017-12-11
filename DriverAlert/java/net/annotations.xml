@@ -1,0 +1,5 @@
+<root>
+  <item name='java.net.Socket java.io.InputStream getInputStream()'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+</root>

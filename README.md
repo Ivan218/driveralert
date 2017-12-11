@@ -31,6 +31,14 @@ classify/run_classifier.cpp
 Can be used to validate / run the trained classifier on a video file. Currently has performance metrics only by setting a single correct label, accuracy measured by counting the number of classifications that match the set 'correct label.' If used in production, comment out I/O functions.
 
 
+server/server.cpp
+-----------------
+Used to test the tcp connection to android mobile app. Simple usage described in file.
+
+DriverAlert
+-----------
+Project root for android app.
+
 ## Pipeline: ##
     1. Record data and convert the video to an .mp4. Images can also be recorded through sift.cpp from a connected camera. 
     2. If the video contains multiple classifications, use sift.cpp to process and label the video file. Otherwise, run modified detect.cpp through the file to extract crops of the face and save them to the appropriate label directory.

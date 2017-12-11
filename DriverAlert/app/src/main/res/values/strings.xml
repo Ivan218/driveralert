@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Driver Alert</string>
+    <string name="connection">connection</string>
+    <string name="alert2">alert</string>
+    <string name="no_connection">No Connection Found</string>
+    <string name="pay_attention">Please pay attention</string>
+    <string name="no_alert">Connected. Drive Safely!</string>
+</resources>
