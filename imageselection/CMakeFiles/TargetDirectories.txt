@@ -1,0 +1,3 @@
+/Users/ivanjrivera/cse379/driveralert/imageselection/CMakeFiles/rebuild_cache.dir
+/Users/ivanjrivera/cse379/driveralert/imageselection/CMakeFiles/edit_cache.dir
+/Users/ivanjrivera/cse379/driveralert/imageselection/CMakeFiles/sift.dir
